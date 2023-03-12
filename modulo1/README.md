@@ -16,7 +16,7 @@ Pong era um jogo eletrônico de esporte de arcade com temática de tênis de mes
 - Raquete oponente com movimentação individual;
 - Placar do jogo;
 - Sons;
-- [Link jogo Pong](https://scratch.mit.edu/projects/808144768)
+- [Link jogo Pong](https://scratch.mit.edu/projects/808246687)
 ---
 
 > 2 - Projeto do jogo Pong utilizando a linguagem de programação Javascript e biblioteca P5.js
