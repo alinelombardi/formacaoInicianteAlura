@@ -2,14 +2,11 @@
 
 ### 🛠️ Plataformas utilizadas
 
-</br>
 
 - **Visual Studio Code:** Em 2015 foi lançado pela Microsoft um editor de código destinado ao desenvolvimento de aplicações web chamado de Visual Studio Code, ou simplesmente VSCode. Anunciada durante o Build, evento voltado a desenvolvedores que ocorre nos Estados Unidos anualmente, trata-se de uma ferramenta leve e multiplataforma que está disponível tanto para Windows, quanto para Mac OS e Linux e atende a uma gama enorme de projetos, não apenas ASP.NET, como também Node.js. Adicionalmente, o editor possui suporte à sintaxe de diversas linguagens como Python, Ruby, C++. Além de ser totalmente gratuito, é open source.
 
 - **Navegador Google Chrome:** O Google Chrome é um navegador de internet desenvolvido pela Google. Foi lançado pela primeira vez em setembro de 2008, para o Microsoft Windows, e mais tarde foi portado para Linux, Mac, iOS e Android. Compilado com base em componentes de código licenciado como o motor de renderização WebKit. 
 ---
-
-</br>
 
 ### ⚙️ HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags
 
@@ -42,8 +39,6 @@
 - Destacar o texto e alterar a cor do texto em destaque.
 
 ---
-
-</br>
 
 ### ⚙️ HTML e CSS: Classes, posicionamento e Flexbox
 
@@ -81,8 +76,6 @@
 
 ---
 
-</br>
-
 ### ⚙️ HTML e CSS: cabeçalho, footer e variáveis CSS
 
 </br>
@@ -106,8 +99,6 @@
 - Como customizar o projeto aplicando variáveis CSS.
 
 ---
-
-</br>
 
 ### ⚙️ HTML e CSS: trabalhando com responsividade e publicação de projetos
 
@@ -138,8 +129,6 @@
 
 ---
 
-</br>
-
 ### 📚 Projetos realizados
 
 </br>
@@ -156,11 +145,9 @@
 
 - Instale o editor de código [Visual Studio Code](https://code.visualstudio.com/download), conforme informações no site;
 - Realize o clone ou download do repositório;
-- Na opção arquivos do esboço, selecione os arquivos da pasta desejada para carregamento e visualize o código do jogo escolhido.
+- Localize o arquivo index.html a pasta do projeto e execute com o navegador de sua preferência.  
 
 ---
-
-</br>
 
 ### 💯 Links para mais informações e consulta
 
