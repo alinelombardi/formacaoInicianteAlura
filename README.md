@@ -16,7 +16,6 @@ A formação abordou os temas:
 - Git e Github.
 
 ---
-</br>
 
 ### 🛠️ Tecnologias utilizadas:
 
@@ -28,7 +27,6 @@ A formação abordou os temas:
 - Vercel.
 
 ---
-</br>
 
 ### 🖥️ Módulos da formação:
 
