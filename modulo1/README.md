@@ -10,8 +10,6 @@
 
 ---
 
-</br>
-
 ### 📚 Projetos desenvolvidos
 
 <br>
