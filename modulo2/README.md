@@ -1,6 +1,10 @@
-# 🗂️ Módulo 2 - Arquitetura de computadores: por trás de como seu programa funciona
+# 🗂️ Módulo 2 - Conhecer o Sistema Operacional
 
-> Assuntos abordados
+### ⚙️ Arquitetura de computadores: por trás de como seu programa funciona
+
+<br>
+
+> Assuntos abordados:
 
 - Como funciona a linguagem que o computador entende: a linguagem de máquina;
 - O computador precisa de um programa tradutor para transformar um código em uma linguagem de programação de alto nível para linguagem de máquina;
@@ -26,4 +30,21 @@
 - Passagem de parâmetros por valor e por referência;
 - Quais são os problemas inerentes aos números de ponto flutuante.
 
-> Nenhum projeto foi realizado durante as aulas. 
+<br>
+Nenhum projeto foi realizado durante as aulas. 
+
+<br>
+
+---
+###  ⚙️ Linux I: conhecendo e utilizando o terminal
+
+<br>
+
+> Assuntos abordados:
+
+- Comandos ls, man, clear, pwd, echo, cat, unzip, zip, whoami, cd, mkdir, tar, rm, touch, date, head, tail, less;
+- Editando arquivos com VI (comandos i, esc, w, q, a, x, G, $, 0, barra espaço, N, n, yy, p, entre outros).
+
+<br>
+Nenhum projeto foi realizado durante as aulas. 
+

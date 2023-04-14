@@ -1,13 +1,11 @@
-# Iniciante Programação
+# 👩🏼‍💻 Iniciante Programação
 
-<h3 align="center">
-Projeto em andamento ⏳
-</h3>
+<h3 align="center"> Projeto em andamento ⏳ </h3>
+
 
 ---
-
-### Aulas, anotações, exercícios e projetos realizados durante a formação Iniciante Programação da Alura.  
-<br>
+</br>
+Aulas, anotações, exercícios e projetos realizados durante a formação Iniciante Programação da Alura.  
 
 A formação abordou os temas:
 - Lógica de programação, o raciocínio de cada caso, criação e mudança de ordem de código;
@@ -18,26 +16,29 @@ A formação abordou os temas:
 - Git e Github.
 
 ---
-### 🖥️ Tecnologias utilizadas:
+</br>
+
+### 🛠️ Tecnologias utilizadas:
 
 - Scratch;
 - JavaScript;
 - CSS;
 - HTML;
-- Git e Github.
+- Git e Github;
+- Vercel.
 
 ---
+</br>
+
 ### 🖥️ Módulos da formação:
 
-- 🗂️ [Módulo 1 - Aprender a lógica de programação](https://github.com/alinelombardi/formacaoInicianteAlura/tree/main/modulo1);
+- 🗂️ [Módulo 1 - Aprender a lógica de programação](/modulo1/README.md);
 
 - 🗂️ [Módulo 2 - Conhecer o Sistema Operacional](/modulo2/README.md);
 
+- 🗂️ [Módulo 3 - Criar suas primeiras páginas web](/modulo3/README.md);
 
-Em breve: 
-
-
-- 🗂️ Módulo 3 - Criar suas primeiras páginas web;
+Em breve:
 
 - 🗂️ Módulo 4 - Ganhar experiência com JavaScript e conhecer o Git;
 
