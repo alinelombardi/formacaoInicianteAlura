@@ -2,6 +2,7 @@
 
 ### 🛠️ Plataformas utilizadas
 
+</br>
 
 - **Visual Studio Code:** Em 2015 foi lançado pela Microsoft um editor de código destinado ao desenvolvimento de aplicações web chamado de Visual Studio Code, ou simplesmente VSCode. Anunciada durante o Build, evento voltado a desenvolvedores que ocorre nos Estados Unidos anualmente, trata-se de uma ferramenta leve e multiplataforma que está disponível tanto para Windows, quanto para Mac OS e Linux e atende a uma gama enorme de projetos, não apenas ASP.NET, como também Node.js. Adicionalmente, o editor possui suporte à sintaxe de diversas linguagens como Python, Ruby, C++. Além de ser totalmente gratuito, é open source.
 
@@ -133,6 +134,10 @@
 
 </br>
 
+
+Em breve link para acesso a página!
+
+
 [Projeto de Portifólio 1](/modulo3/portifolio/)
 
 [Projeto de Portifólio 2](/modulo3/portifolio2/)
@@ -168,29 +173,6 @@
 - [Padding](https://www.w3schools.com/csS/css_padding.aspc)
 - [Variaveis](developer.mozilla.org/pt-BR/docs/Web/CSS/Using_CSS_custom_properties)
 - [Media Queries](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Media_Queries/Using_media_queries)
-
-> Artigos e conteudos extra
-
-- https://www.alura.com.br/artigos/guia-de-unidades-no-css
-- https://developer.mozilla.org/pt-BR/docs/Learn/HTML/Introduction_to_HTML/Getting_started
-- https://www.alura.com.br/artigos/css-guia-do-flexbox
-- https://css-tricks.com/
-- https://css-tricks.com/almanac/properties/g/gap/
-- https://www.alura.com.br/artigos/css-border-estilizando-bordas-elementos-css
-- https://developers.google.com/fonts/docs/getting_started?hl=pt-br
-- https://www.alura.com.br/artigos/css-border-estilizando-bordas-elementos-css
-- https://colorhunt.co/
-- https://color.adobe.com/pt/create/color-wheel
-- https://youtu.be/y4ltLH9iK8Ec
-- https://www.alura.com.br/artigos/guia-de-unidades-no-css
-- https://www.w3schools.com/cssref/css_units.php
-
-> Assinantes Alura
-
-- https://cursos.alura.com.br/course/html-css-ambiente-arquivos-tags/task/120614
-- https://cursos.alura.com.br/extra/alura-mais/como-as-variaveis-css-transformam-meu-projeto--c1485
-- https://cursos.alura.com.br/extra/alura-mais/css-border-estilizando-com-bordas-seus-elementos-css-c1486
-
 
 ---
 

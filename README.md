@@ -36,9 +36,10 @@ A formação abordou os temas:
 
 - 🗂️ [Módulo 3 - Criar suas primeiras páginas web](/modulo3/README.md);
 
-Em breve:
+- 🗂️ [Módulo 4 - Ganhar experiência com JavaScript e conhecer o Git](/modulo4/README.md);
 
-- 🗂️ Módulo 4 - Ganhar experiência com JavaScript e conhecer o Git;
+
+Em breve!
 
 - 🗂️ Módulo 5 - Hora de praticar.
 
