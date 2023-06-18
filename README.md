@@ -1,11 +1,8 @@
-# 👩🏼‍💻 Iniciante Programação
+# 👩🏼‍💻 Iniciante Programação - Concluído ✅
 
-<h3 align="center"> Projeto em andamento ⏳ </h3>
-
-
----
-</br>
 Aulas, anotações, exercícios e projetos realizados durante a formação Iniciante Programação da Alura.  
+
+</br>
 
 A formação abordou os temas:
 - Lógica de programação, o raciocínio de cada caso, criação e mudança de ordem de código;
@@ -38,8 +35,6 @@ A formação abordou os temas:
 
 - 🗂️ [Módulo 4 - Ganhar experiência com JavaScript e conhecer o Git](/modulo4/README.md);
 
+- 🗂️ [Módulo 5 - Hora de praticar](/modulo4/README.md);
 
-Em breve!
-
-- 🗂️ Módulo 5 - Hora de praticar.
 

@@ -11,63 +11,31 @@
 
 </br>
 
-### ⚙️ JavaScript para Web: Crie páginas dinâmicas
-
-</br>
-
-> Assuntos abordados: 
-
-
----
-
-</br>
-
-### ⚙️ Git e GitHub: repositório, commit e versões
-
-</br>
-
-> Assuntos abordados: 
-
-
-
-
-
----
-
-</br>
-
 ### 📚 Projetos realizados
 
 </br>
 
+Desafio 7DaysOfCode - Rafaella Ballerini
 
+- 🗂️ [Dia 1](/modulo5/dia1/)
+- 🗂️ [Dia 2](/modulo5/dia2/)
+- 🗂️ [Dia 3](/modulo5/dia3/)
+- 🗂️ [Dia 4](/modulo5/dia4/)
+- 🗂️ [Dia 5](/modulo5/dia5/)
+- 🗂️ [Dia 6](/modulo5/dia6/)
+- 🗂️ [Dia 7](/modulo5/dia7/)
 
 </br>
 
 > Acesso aos códigos: 
 
 - Instale o editor de código [Visual Studio Code](https://code.visualstudio.com/download), conforme informações no site;
-- Realize o clone ou download do repositório;
-- Na opção arquivos do esboço, selecione os arquivos da pasta desejada para carregamento e visualize o código do jogo escolhido.
-
----
-
-</br>
-
-### 💯 Links para mais informações e consulta
-
-</br>
-
-> Documentações e arquivos
+- Faça o clone ou download do repositório.
+- Cada pasta contém o código referente ao desafio, com foco na utilização no console do navegador.
+- Abra o navegador de sua preferência.
+- Clique com o botão esquerdo do mouse na página e escolha a opção "Inspecionar". Isso abrirá uma divisão com várias informações, então clique na aba "Console".
+- Copie o código desejado e cole-o na aba "Console" do navegador. Em seguida, pressione "Enter" para iniciar a aplicação.
 
 
 
-> Artigos e conteudos extra
-
-
-
-> Assinantes Alura
-
-
----
 
