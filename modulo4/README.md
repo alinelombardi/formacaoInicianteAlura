@@ -2,7 +2,6 @@
 
 ### 🛠️ Plataformas utilizadas
 
-</br>
 
 - **Visual Studio Code:** Em 2015 foi lançado pela Microsoft um editor de código destinado ao desenvolvimento de aplicações web chamado de Visual Studio Code, ou simplesmente VSCode. Anunciada durante o Build, evento voltado a desenvolvedores que ocorre nos Estados Unidos anualmente, trata-se de uma ferramenta leve e multiplataforma que está disponível tanto para Windows, quanto para Mac OS e Linux e atende a uma gama enorme de projetos, não apenas ASP.NET, como também Node.js. Adicionalmente, o editor possui suporte à sintaxe de diversas linguagens como Python, Ruby, C++. Além de ser totalmente gratuito, é open source.
 
@@ -13,8 +12,6 @@
 - **Google chrome:** O Google Chrome é um navegador de internet desenvolvido pela Google. Foi lançado pela primeira vez no dia 2 de setembro de 2008, para o Microsoft Windows, e mais tarde foi portado para Linux, Mac, iOS e Android. Compilado com base em componentes de código licenciado como o motor de renderização WebKit. O Google Chrome também é o principal componente do Chrome OS onde funciona como uma plataforma para executar aplicativos da web e sua estrutura de desenvolvimento de aplicações (framework).
 
 ---
-
-</br>
 
 ### ⚙️ JavaScript para Web: Crie páginas dinâmicas
 
@@ -98,8 +95,6 @@ Mais condições:
 
 ---
 
-</br>
-
 ### ⚙️ Git e GitHub: repositório, commit e versões
 
 </br>
@@ -129,8 +124,6 @@ Mais condições:
     - Como enviar todas as alterações feitas na branch "develop" para a branch principal “main” com o merge.
 
 ---
-
-</br>
 
 ### 📚 Projetos realizados
 
