@@ -35,6 +35,6 @@ A formação abordou os temas:
 
 - 🗂️ [Módulo 4 - Ganhar experiência com JavaScript e conhecer o Git](/modulo4/README.md);
 
-- 🗂️ [Módulo 5 - Hora de praticar](/modulo4/README.md);
+- 🗂️ [Módulo 5 - Hora de praticar](/modulo5/README.md);
 
 
